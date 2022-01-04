@@ -3,4 +3,4 @@ def is_printnumber():
     for i in range(1,a+1):
         print(i, end="")
 
-print(is_printnumber())
+is_printnumber()
