@@ -1,2 +1,2 @@
 # functions
-finding leap year using functions in python
+finding leap year , valid phone number, and print numbers as a string using functions in python
